@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889249602616",
+    "project_id": "summy-registeration-screen",
+    "storage_bucket": "summy-registeration-screen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889249602616:android:01dc0ae9ba58883826dacd",
+        "android_client_info": {
+          "package_name": "com.example.registeration_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889249602616-hakslj4v18aqbpldoomdm496qnsu8033.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCSbz3y3Ux17bBfHjX9Y1GVkwaASntzfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889249602616-hakslj4v18aqbpldoomdm496qnsu8033.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
